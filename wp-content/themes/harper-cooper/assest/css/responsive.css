@@ -1,0 +1,22 @@
+@media (min-width: 320px) {
+    .navbar-side {
+        width: 80%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 484px) {
+
+    .navbar-side {
+        width: 85%;
+    }
+
+    .navbar-side-item {
+        padding: 1.5rem 0 4rem 0;
+    }
+
+
+    .navbar-side-item a {
+        font-size: 1.4rem;
+    }
+
+}
