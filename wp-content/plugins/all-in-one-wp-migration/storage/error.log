@@ -1,0 +1,12 @@
+Oct 10 2018 12:36:07
+{"Number":2,"Message":"unlink(C:\\xampp\\htdocs\\maintenance_new\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\bwv7gcvrpqgg\\database.sql): Permission denied","File":"C:\\xampp\\htdocs\\maintenance_new\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":56}
+
+Oct 10 2018 12:36:07
+{"Number":2,"Message":"rmdir(C:\\xampp\\htdocs\\maintenance_new\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\bwv7gcvrpqgg): Directory not empty","File":"C:\\xampp\\htdocs\\maintenance_new\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":60}
+
+Oct 11 2018 12:19:03
+{"Number":2,"Message":"fopen(C:\\\\xampp\\\\htdocs\\\\maintenance_new\\\\wp-content\\\\themes\\\\maintenancetheme\\\\media\\\\images\\\\Thumbs.db): failed to open stream: Permission denied","File":"C:\\xampp\\htdocs\\maintenance_new\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":422}
+
+Oct 11 2018 12:19:11
+{"Number":2,"Message":"fopen(C:\\\\xampp\\\\htdocs\\\\maintenance_new\\\\wp-content\\\\themes\\\\maintenancetheme\\\\Thumbs.db): failed to open stream: Permission denied","File":"C:\\xampp\\htdocs\\maintenance_new\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":422}
+
